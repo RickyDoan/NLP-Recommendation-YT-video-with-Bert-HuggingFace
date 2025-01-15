@@ -1,4 +1,6 @@
 # NLP - Recommend YouTube Video System Using HuggingFace Pretrained Model !🎥✨
+![chatbox-video](https://github.com/RickyDoan/NLP-Recommendation-YT-video-with-Bert-HuggingFace/blob/main/recommendation%20yt%20vid.gif)
+
 ## 🔍 Overview:
 This system processes a video title or keyword to recommend similar YouTube videos with:
 - **AI-based text embedding** (BERT)
